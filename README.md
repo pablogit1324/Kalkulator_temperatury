@@ -5,11 +5,14 @@ Aplikacja oferuje funkcje zmiany temperatury z jednej jednostki na drugą oraz u
 
 Funkcje:
 
-    Przeliczanie Celsius na Fahrenheit: Wprowadź temperaturę w stopniach Celsiusa, a następnie kliknij przycisk "KONWERTUJ", aby uzyskać wartość w stopniach Fahrenheita.
+    Przeliczanie Celsius na Fahrenheit: Wprowadź temperaturę w stopniach Celsiusa, 
+    a następnie kliknij przycisk "KONWERTUJ", aby uzyskać wartość w stopniach Fahrenheita.
 
-    Przeliczanie Fahrenheit na Celsius: Wprowadź temperaturę w stopniach Fahrenheita, a następnie kliknij przycisk "KONWERTUJ", aby uzyskać wartość w stopniach Celsiusa.
+    Przeliczanie Fahrenheit na Celsius: Wprowadź temperaturę w stopniach Fahrenheita, 
+    a następnie kliknij przycisk "KONWERTUJ", aby uzyskać wartość w stopniach Celsiusa.
 
-    Resetowanie pola: Po wykonaniu konwersji, aby wprowadzić nową wartość, kliknij przycisk "Resetuj", a pole do wpisywania wartości zostanie wyczyszczone.
+    Resetowanie pola: Po wykonaniu konwersji, aby wprowadzić nową wartość, kliknij przycisk "Resetuj"
+    a pole do wpisywania wartości zostanie wyczyszczone.
 
 Jak korzystać z kalkulatora
 
@@ -37,7 +40,8 @@ Przykład 2: Przeliczanie z Fahrenheita na Celsiusa
 
 Przykład 3: Resetowanie pola
 
-    Po wykonaniu przeliczenia, aby wprowadzić nową temperaturę, kliknij przycisk "Resetuj". Pole do wpisywania wartości zostanie wyczyszczone.
+    Po wykonaniu przeliczenia, aby wprowadzić nową temperaturę, kliknij przycisk "Resetuj".
+    Pole do wpisywania wartości zostanie wyczyszczone.
 
 Technologie
 
