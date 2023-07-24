@@ -16,7 +16,8 @@ Funkcje
 
 Jak korzystać z kalkulatora
         
-    Wejdź na strone [a link](https://kalkulator-temp.netlify.app).
+    Wejdź na strone:
+[r2h]: https://kalkulator-temp.netlify.app 
 
     Wprowadź temperaturę, którą chcesz przeliczyć, do odpowiedniego pola tekstowego.
 
