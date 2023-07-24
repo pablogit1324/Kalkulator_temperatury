@@ -1,4 +1,4 @@
-# Kalkulator_temperatury - Celsius na Fahrenheit i Fahrenheit na Celsius
+# Kalkulator - Celsius na Fahrenheit i Fahrenheit na Celsius
 
 Kalkulator Temperatury to prosta aplikacja, która umożliwia przeliczanie temperatury pomiędzy skalą Celsiusa (°C) i skalą Fahrenheita (°F). 
 Aplikacja oferuje funkcje zmiany temperatury z jednej jednostki na drugą oraz umożliwia resetowanie pola do wpisywania wartości.
